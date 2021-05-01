@@ -1,0 +1,41 @@
+.contenedor-inputt {
+    
+    padding: 60px 15px;
+    display: flexbox;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+    width: 100%;
+    margin: auto;
+    max-width: 500px;
+    background: white;
+    border-radius: 50px;
+}
+.contenedor-inputt .btn-iniciar-sesion{
+    
+    padding: 12px 10px 12px 10px;
+    border-radius: 15px;
+    background: rgb(103, 72, 218);
+    color: white;
+    margin: auto;
+    align-items: center;
+    height:50px; 
+    width:150px; 
+    margin: 20px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+  }
+
+.contenedor-inputt h2{
+    text-align: center;
+    color: black;
+}
+
+.contenedor-inputt h6{
+    color:black;
+}
+
+.col-ss{
+    width: 100%;
+}

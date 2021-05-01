@@ -1,0 +1,79 @@
+
+#formulario {
+    background: rgb(40, 40, 43);
+    padding: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+  
+}
+.form-titulo {
+    background: cadetblue;
+    color:rgb(103, 72, 218);
+    padding: 20px;
+    text-align: center;
+    border-bottom: solid 5px red;
+    border-radius: 8px 8px 0px 0px;
+}
+.form-registro{
+    width: 100%;
+    margin: auto;
+    max-width: 500px;
+    background: white;
+    border-radius: 50px;
+    
+}
+
+input {
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    display: float;
+}
+.col-sm{
+    width: 42%;
+}
+.col-xl{
+    width: 100%;
+}
+.btn-registrar{
+    background:rgb(103, 72, 218);
+    border-radius: 15px;
+    color: white;
+    margin: auto;
+    align-items: center;
+    height:50px; 
+    width:100px; 
+    margin: 20px -50px; 
+    position:relative;
+    top:50%; 
+    left:50%;
+}
+.btn-accion{
+    background: rgb(21, 186, 207);
+    color: rgb(94, 4, 4);
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.botones{
+    border-bottom-color: chartreuse;
+}
+
+.contenedor-input{
+    padding: 60px 15px;
+    display: flexbox;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.contenedor-input h2{
+    text-align: center;
+    color: black;
+}
+
+.contenedor-input h6{
+    color:black;
+}
+

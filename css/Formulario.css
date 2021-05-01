@@ -1,0 +1,62 @@
+.form-registros{
+    width: 100%;
+    margin: auto;
+    max-width: 500px;
+    background: white;
+    border-radius: 50px;
+    height: 600px;
+}
+
+.form-registros h2{
+    text-align: center;
+    color: black;
+}
+
+.form-registros h6{
+    color:black;
+    margin: 5px;
+}
+
+.form-registros p{
+    color: black;
+    right: auto;
+    margin: 5px;
+}
+
+
+.form-registros .col-ssm{
+    width: 480px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 100px;
+}
+.form-registros #cbox1 {
+    width: 100px;
+}
+.form-registros #cbox2{
+    width: 100px;
+}
+.form-registros #cbox3{
+    width: 100px;
+   
+}
+.form-registros .col-si{
+    width: 180px;
+    margin-left: 10px;
+    margin-right: 10px;
+    }
+
+.form-registros .btnregistrar{
+    padding: 12px 10px 12px 10px;
+    border-radius: 15px;
+    background: rgb(103, 72, 218);
+    color: white;
+    top:50px; 
+    left:70px;
+    margin-bottom: 20px;
+    
+    width: 155px;
+    left: 155px;
+    position: relative;
+
+}

@@ -1,0 +1,20 @@
+footer{
+    background-color:rgb(40, 40, 43);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    font-size: 15px;
+    height: 200px;
+    border-top: 3px solid rgb(103, 72, 218)  ;
+    border-bottom: none;
+    
+}
+
+.col h1{
+    text-align: center;
+}
+
+.coll{
+    color: red;
+    float: right;
+}
